@@ -3,7 +3,7 @@ items:
  - aseprite/aseprite/
  - piskelapp/piskel/
  - jvalen/pixel-art-react/
- - maierfelix/poxi/
+ - maierfelix/787
  - gmattie/Data-Pixels/
  - vsmode/pixel8
  - kitao/pyxel
